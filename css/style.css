@@ -1,0 +1,6 @@
+h1{font-size: 3em; font-family: 'Pacifico', cursive; color: rgb(90,19,19);}
+h2{font-size: 1em; font-family: georgia, serif;}
+body {background-color: white} 
+.top-bar .name h1 a {font-family: georgia, serif;}
+
+.full {width: 100%;}
